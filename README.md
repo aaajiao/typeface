@@ -12,7 +12,7 @@ Fork from [@genekogan](https://www.twitter.com/genekogan)'s [A Book from the Sky
 ## License
 RatchetPro is licensed under the [MIT License](http://opensource.org/licenses/MIT).
 
-## We are：
+## We are
 MaterO (Cheng Xin), New media artist, Coder, Mechanical Designer，Craftsmen，dedicated to exploring the possibility of “mixing” of materials and soft-hardwares. 
 Founded one of the earliest new media design consultancy company in China, developed hundreds new media projects for government & commercial customers.
 In 2014, served as a mentor for China-US Young Maker Competition. In 2015,  Participated an Interactive musical for The Rising Artists' Works (R.A.W!) of China Shanghai International Arts Festival (CSIAF). Now, a workshop and some training courses are set up in the university and institution. Now，open courses and workshops at universities and institutions.
