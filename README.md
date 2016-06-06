@@ -1,4 +1,4 @@
-# typeface - Remnants of an Electronic Past / 字体 － 电子遗留物
+# typeface
 
 Typeface is a art experiment, aims to explore the ancient text, in the digital means by repeating the process of deconstruction and reconstruction of the loss of meaning, we collected a lot of time carved stone rubbings convolutional neural network to train a depth deep convolutional generative adversarial network (DCGAN), in the process of training, the structure of the text were mutilated to the pixel level, through the study of a large number of samples, the neural network to master the method of writing, able to create new words.But this study - the process of creating, the meaning of the text is completely lost, to recreate the text into a meaningless imitation.
 
