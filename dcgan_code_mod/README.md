@@ -32,14 +32,14 @@ convolutions (generator).
 # Bedrooms after 5 epochs
 Generated bedrooms after five epochs of training. There appears to be evidence of visual
 under-fitting via repeated textures across multiple samples.
-![](images/lsun_bedrooms_five_epoch_samples.png)
+![](https://github.com/Newmu/dcgan_code/blob/master/images/lsun_bedrooms_five_epoch_samples.png)
 
 # Bedrooms after 1 epoch
 Generated bedrooms after one training pass through the dataset. Theoretically, the model
 could learn to memorize training examples, but this is experimentally unlikely as we train with a
 small learning rate and minibatch SGD. We are aware of no prior empirical evidence demonstrating
 memorization with SGD and a small learning rate in only one epoch.
-![](images/lsun_bedrooms_one_epoch_samples.png)
+![](https://github.com/Newmu/dcgan_code/blob/master/images/lsun_bedrooms_one_epoch_samples.png)
 
 # Walking from one point to another in bedroom latent space
 
@@ -48,7 +48,7 @@ learned has smooth transitions, with every image in the space plausibly looking 
 the 6th row, you see a room without a window slowly transforming into a room with a giant window.
 In the 10th row, you see what appears to be a TV slowly being transformed into a window.
 
-![](images/lsun_bedrooms_five_epochs_interps.png)
+![](https://github.com/Newmu/dcgan_code/blob/master/images/lsun_bedrooms_five_epochs_interps.png)
 
 # Forgetting to draw windows
 
@@ -59,29 +59,29 @@ scene composition stayed similar, suggesting the generator has done a good job d
 representation from object representation. Extended experiments could be done to remove other
 objects from the image and modify the objects the generator draws.
 
-![](images/lsun_bedrooms_window_drop_test.png)
+![](https://github.com/Newmu/dcgan_code/blob/master/images/lsun_bedrooms_window_drop_test.png)
 
 # Google image search from generations
 
-![](images/googsearch_dcgan.png)
+![](https://github.com/Newmu/dcgan_code/blob/master/images/googsearch_dcgan.png)
 
 
 # Arithmetic on faces
 
-![](images/faces_arithmetic_collage.png)
+![](https://github.com/Newmu/dcgan_code/blob/master/images/faces_arithmetic_collage.png)
 
 # Rotations are linear in latent space
 
-![](images/turn_vector.png)
+![](https://github.com/Newmu/dcgan_code/blob/master/images/turn_vector.png)
 
 # More faces
 
-![](images/faces_128_filter_samples.png)
+![](https://github.com/Newmu/dcgan_code/blob/master/images/faces_128_filter_samples.png)
 
 # Album covers
 
-![](images/albums_128px.png)
+![](https://github.com/Newmu/dcgan_code/blob/master/images/albums_128px.png)
 
 # Imagenet generations
 
-![](images/50.png)
+![](https://github.com/Newmu/dcgan_code/blob/master/images/50.png)
