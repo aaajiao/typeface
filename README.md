@@ -11,7 +11,7 @@ Typeface 是一项艺术实验，旨在探索古老的文字，在通过数字�
 Fork from [@genekogan](https://www.twitter.com/genekogan)'s [A Book from the Sky](http://www.genekogan.com/works/a-book-from-the-sky2.html) - Thanks Gene Kogan bring us this great project. typeface forked from this project.
 
 ## License
-RatchetPro is licensed under the [MIT License](http://opensource.org/licenses/MIT).
+Typeface is licensed under the [MIT License](http://opensource.org/licenses/MIT).
 
 ## We are
 <b>MaterO (Cheng Xin)</b>, New media artist, Coder, Mechanical Designer，Craftsmen，dedicated to exploring the possibility of “mixing” of materials and soft-hardwares. 
